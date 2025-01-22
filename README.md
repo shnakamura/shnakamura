@@ -2,7 +2,7 @@
 
 # [nakamurash.me](https://nakamurash.me/)
 
-> discord: nakamurash
+> discord: @nakamurash
 ---
 
-I'm a hobbyist programmer. I specialize in Terraria modding, though, recently have been branching out into new niches.
+Experienced Backend .NET Developer with nearly five years of expertise in software engineering and project management, specializing in C#.
