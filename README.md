@@ -5,4 +5,4 @@
 > discord: @nakamurash
 ---
 
-Experienced Backend .NET Developer with nearly five years of expertise in software engineering and project management, specializing in C#.
+hi.
